@@ -41,6 +41,7 @@ h1 {
 h1 span {
     display: inline-block;
     animation: animate 1s linear forwards, animatetxt 5s linear forwards;
+    animation-itration-count: infinite;
 }
 
 @keyframes animatetxt {
